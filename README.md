@@ -38,7 +38,7 @@
 
 ## その他：
 - Flutter（Riverpod/Freezed)
-- Firebase or Supabase（予定）
+- Firebase or Supabase（予定）原則サーバーレス
 - GitHub Actions（今後追加予定）
 - MVVM
 - Flutterの静的解析：pedantic_mono
