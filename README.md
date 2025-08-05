@@ -36,7 +36,7 @@
 
 ---
 
-## その他：
+## 技術関連：
 - Flutter（Riverpod/Freezed)
 - Firebase or Supabase（予定）原則サーバーレス
 - GitHub Actions（今後追加予定）
