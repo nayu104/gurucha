@@ -41,7 +41,7 @@
 - Firebase or Supabase（予定）
 - GitHub Actions（今後追加予定）
 - MVVM
-- 静的解析 pedantic_mono
-- バージョン管理 FVM
-- Tencent RTC SDK ライブ配信
+- Flutterの静的解析：pedantic_mono
+- Flutterのバージョン管理：FVM
+- ライブ配信：Tencent RTC SDK
 
