@@ -1,16 +1,47 @@
-# gurucha
+# グルチャ！ - Gurucha
 
-A new Flutter project.
+ゲームに特化したグループチャットSNSアプリ 🎮📱  
+「マルチプレイしたいけど仲間がいない」  
+そんな悩みを解決する、ゲーマーのための交流プラットフォームです。
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧩 主な機能
 
-A few resources to get you started if this is your first Flutter project:
+- 💬 **グループチャット機能**：ゲーム別・目的別に部屋を作成可能
+- 🔴 **縦スクロールライブ配信**：実況や協力プレイの様子を簡単に配信
+- 📌 **おすすめグループのレコメンド**
+- 🧑‍🤝‍🧑 **フォロー・フォロワー機能**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 対象ユーザー
+
+- ソーシャルゲーム・コンシューマーゲームを遊ぶ若年層（10代〜20代）
+- 初心者〜上級者までマルチプレイを楽しみたいプレイヤー
+- 気軽にゲーム仲間とつながりたい方
+
+---
+
+## 🚀 今後の開発スケジュール
+
+| ステップ | 内容 |
+|---------|------|
+| 1 | 画面遷移図の作成 |
+| 2 | UI設計 |
+| 3 | DB設計（Firebase or Supabase） |
+| 4 | Flutterによる開発 |
+| 5 | テスト・改善 |
+| 6 | Android/iOSへのリリース |
+
+---
+
+## その他：
+- Flutter（Riverpod/Freezed)
+- Firebase or Supabase（予定）
+- GitHub Actions（今後追加予定）
+- MVVM
+- 静的解析 pedantic_mono
+- バージョン管理 FVM
+- Tencent RTC SDK ライブ配信
+
